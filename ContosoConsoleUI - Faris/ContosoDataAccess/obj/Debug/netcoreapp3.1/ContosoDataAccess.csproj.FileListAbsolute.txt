@@ -1,0 +1,4 @@
+C:\Users\ASUS\source\repos\ContosoConsoleUI - Faris\ContosoDataAccess\bin\Debug\netcoreapp3.1\ContosoModel.dll
+C:\Users\ASUS\source\repos\ContosoConsoleUI - Faris\ContosoDataAccess\obj\Debug\netcoreapp3.1\ContosoDataAccess.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\ContosoConsoleUI - Faris\ContosoDataAccess\obj\Debug\netcoreapp3.1\ContosoDataAccess.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ContosoConsoleUI - Faris\ContosoDataAccess\obj\Debug\netcoreapp3.1\ContosoDataAccess.AssemblyInfo.cs
